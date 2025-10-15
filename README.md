@@ -33,7 +33,7 @@
 |------|------|----------------------------|--------|
 | 황석범 | 리더 | 프로젝트 초기 세팅, 앱 배포, API 활용, 기획, 관심목록 화면, 검색 화면, NetworkManager | [@황석범](https://github.com/HwangSeokBeom) |
 | 강민성 | 부리더 | API 활용, 기획, 상세 페이지 화면, CoreDataManager | [@강민성](https://github.com/kangminseoung) |
-| 서지민 | 팀원 | 디자인, 코인 시세 화면, UI/UX 개선, 기획 | [@서지민](https://github.com/JIMIN-iOSDev) |
+| 서지민 | 팀원 | 디자인, 코인 시세 화면, 알림 화면, UI/UX 개선, 기획 | [@서지민](https://github.com/JIMIN-iOSDev) |
 | 서현욱 | 팀원 | 디자인, 로고 및 아이콘 제작, 앱 설정 화면, 기획 | [@서현욱](https://github.com/hyunwook-seo) |
 
 
